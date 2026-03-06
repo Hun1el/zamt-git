@@ -1,3 +1,6 @@
 [submodule "Pr10"]
 	path = Pr10
 	url = https://github.com/Hun1el/GIT_PR10_SOLONIKOV.git
+[submodule "Pr11"]
+	path = Pr11
+	url = https://github.com/Hun1el/megasupersite.git
